@@ -36,5 +36,7 @@ Caso de Teste 2 Validação de Limites e Tratamento de Erros:
     Resultado: O sistema operou normalmente sem travamentos, informou a ausência de gastos e exibiu a porcentagem de ocupação como 0.00%.
 
 * VÍDEO:
+    https://youtu.be/WKhaDIx84Tk
 
 * REFERÊNCIAS:
+    https://bolder-beret-049.notion.site/Introdu-o-s-T-cnicas-de-Programa-o-9fd602a6688140309f459752ec8ee8bd
