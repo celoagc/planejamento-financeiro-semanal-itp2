@@ -15,14 +15,14 @@
     ./controle_gastos
 
 * TESTES:
-Caso de Teste 1 (Valores Válidos):
+* Caso de Teste 1 (Valores Válidos):
     Entradas: 2 categorias cadastradas.
     "Alimentação" com R$ 20,00 informados em todos os dias.
     "Transporte" iniciando com R$ 1,00 na segunda-feira e sofrendo incremento de R$ 1,00 a cada dia subsequente.
 
     Resultado Esperado e Obtido: O sistema registrou o total de R$ 140,00 para Alimentação e R$ 28,00 para Transporte, resultando no total semanal de R$ 168,00. A categoria Alimentação foi corretamente identificada como o maior gasto, representando 83.33% do total da semana.
 
-Caso de Teste 2 Validação de Limites e Tratamento de Erros:
+* Caso de Teste 2 Validação de Limites e Tratamento de Erros:
     Limite de Categorias: Tentativa de criar 6 categorias.
     Resultado: O sistema bloqueou a ação, respeitando o limite máximo definido de 5 categorias.
 
